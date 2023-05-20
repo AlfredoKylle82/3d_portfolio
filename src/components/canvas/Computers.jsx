@@ -38,4 +38,4 @@ const ComputersCanvas = () => {
     </Canvas>
   )
 }
-export default Computers
+export default ComputersCanvas
