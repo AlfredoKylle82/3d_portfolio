@@ -115,18 +115,18 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+  { 
+    title: "Airport Management	",
+    company_name: "Personal Project",
+    icon: shopify,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed, implemented, and managed a database containing data on aircraft, airlines, airports, countries, and their associated routes Utilized Spring Boot JPA to manage relational data in the java application, and managed API endpoints using Postman for seamless data insertion ensuring the reliability and functionality of the system. ",
+      "Efficiently version-controlled using GitLab Repository, ensuring smooth collaboration and project management. ",
+      "Technologies used: Spring Boot Web, Spring Boot JPA, SQL, ERD design, Postman, Java SE 20, Gitlab",
     ],
+    
   },
   {
     title: "React Native Developer",
@@ -142,16 +142,15 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+   title: "Tutor",
+    company_name: "Abest Centre of Tutorial Excellence",
+    icon: starbucks,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "January 2018 - December 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Demonstrated ability to break down complex topics into easily understandable parts, including topics in HTML, CSS, and Java.",
+      "An enthusiastic educator with the ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
+      "Excellent communication and relationship-building skills honed over years of successful tutoring.",
     ],
   },
   {
