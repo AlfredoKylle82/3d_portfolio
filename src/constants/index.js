@@ -115,17 +115,18 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "Tutor",
-    company_name: "Abest Centre of Tutorial Excellence",
-    icon: starbucks,
+  { 
+    title: "Airport Management	",
+    company_name: "Personal Project",
+    icon: shopify,
     iconBg: "#383E56",
-    date: "January 2018 - December 2020",
+    date: "April 2023",
     points: [
-      "Demonstrated ability to break down complex topics into easily understandable parts, including topics in HTML, CSS, and Java.",
-      "An enthusiastic educator with the ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
-      "Excellent communication and relationship-building skills honed over years of successful tutoring.",
+      "Designed, implemented, and managed a database containing data on aircraft, airlines, airports, countries, and their associated routes Utilized Spring Boot JPA to manage relational data in the java application, and managed API endpoints using Postman for seamless data insertion ensuring the reliability and functionality of the system. ",
+      "Efficiently version-controlled using GitLab Repository, ensuring smooth collaboration and project management. ",
+      "Technologies used: Spring Boot Web, Spring Boot JPA, SQL, ERD design, Postman, Java SE 20, Gitlab",
     ],
+    
   },
   {
     title: "Sponsorships and Marketing",
@@ -139,15 +140,15 @@ const experiences = [
     ],
   },
   {
-    title: "Airport Management	",
-    company_name: "Personal Project",
-    icon: shopify,
+   title: "Tutor",
+    company_name: "Abest Centre of Tutorial Excellence",
+    icon: starbucks,
     iconBg: "#383E56",
-    date: "April 2023",
+    date: "January 2018 - December 2020",
     points: [
-      "Designed, implemented, and managed a database containing data on aircraft, airlines, airports, countries, and their associated routes Utilized Spring Boot JPA to manage relational data in the java application, and managed API endpoints using Postman for seamless data insertion ensuring the reliability and functionality of the system. ",
-      "Efficiently version-controlled using GitLab Repository, ensuring smooth collaboration and project management. ",
-      "Technologies used: Spring Boot Web, Spring Boot JPA, SQL, ERD design, Postman, Java SE 20, Gitlab",
+      "Demonstrated ability to break down complex topics into easily understandable parts, including topics in HTML, CSS, and Java.",
+      "An enthusiastic educator with the ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
+      "Excellent communication and relationship-building skills honed over years of successful tutoring.",
     ],
   },
   {
