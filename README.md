@@ -15,7 +15,7 @@ Responsive design for various device screens <br>
 ## Installation
 To install and run this project, you will need Node.js and npm.
 ### Clone the repository
-git clone https://github.com/<username>/react-3d-portfolio.git
+git clone https://github.com/AlfredoKylle82/3d_portfolio
 
 ### Go into the repository
 cd react-3d-portfolio
