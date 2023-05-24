@@ -194,67 +194,63 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Two-player Network Game",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Designed and implemented a multiplayer network game. The program implemented the concepts and foundations of graphical user interface (GUI), inheritance, inner classes, animation using threads and timers, networking to send and receive game data.",
     tags: [
       {
-        name: "react",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Swing",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Animation",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AlfredoKylle82/Two-player-Game-Design-Project.git",
   },
   {
-    name: "Job IT",
+    name: "eSports Player Management",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Designed and developed an interactive and user-friendly PHP Web application to streamline the management of eSports player profiles. The application leverages MySQL database support to efficiently store and retrieve player data, allowing for seamless addition, deletion, and updating of player details.",
     tags: [
       {
-        name: "react",
+        name: "PHP",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "MySQL",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "SQL",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AlfredoKylle82/eSports-Profile-Management-.git",
   },
   {
-    name: "Trip Guide",
+    name: "Brick Break",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The task required an understanding of Java swing and awt, polymorphism and interfaces. Without using an actual image file (.PNG, .JPG, etc.), all shapes as well as the positions were programmatically drawn and calculated inside the program.",
     tags: [
       {
-        name: "nextjs",
+        name: "GUI",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Java",
         color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/AlfredoKylle82/Brick-Game-.git",
   },
 ];
 

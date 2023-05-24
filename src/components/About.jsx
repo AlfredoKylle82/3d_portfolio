@@ -29,7 +29,8 @@ const About = () => {
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
       As a former self-endowed professional tic-tac-toe programmer, I currently aspire to learn more and more in my journey as an international computer programming student at Algonquin College. 
       From a mere C# game designer, I have built my roots and take pride in the foundations of a basic programmer, to now, an aspiring full-stack web developer.
-
+      <br/>
+      <br/>
       Despite not having Programming work experiences yet, I continue to build upon my passion of learning new advancements in technology. Currently, I am garnering the background knowledge and mastery of 
       object-oriented programming through Java, SQL, Javascript, by indulging in different programming paradigms and design patterns. As an aspiring programmer, I am willing to learn the foundations 
       and re-learn things to further solidify that foundation in the tech industry.
