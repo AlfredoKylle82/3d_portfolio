@@ -6,12 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "react-scripts start",
+    "start": "vite start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
