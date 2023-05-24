@@ -147,7 +147,7 @@ const experiences = [
     date: "January 2018 - December 2020",
     points: [
       "Demonstrated ability to break down complex topics into easily understandable parts, including topics in HTML, CSS, and Java.",
-      "An enthusiastic educator with the ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
+      "An enthusiastic educator with the asd ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
       "Excellent communication and relationship-building skills honed over years of successful tutoring.",
     ],
   },
