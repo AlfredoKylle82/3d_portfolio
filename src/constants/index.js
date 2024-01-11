@@ -116,15 +116,15 @@ const technologies = [
 
 const experiences = [
   { 
-    title: "Airport Management	",
-    company_name: "Personal Project",
+    title: "Software Developer",
+    company_name: "Algonquin College",
     icon: shopify,
     iconBg: "#383E56",
     date: "April 2023",
     points: [
-      "Designed, implemented, and managed a database containing data on aircraft, airlines, airports, countries, and their associated routes Utilized Spring Boot JPA to manage relational data in the java application, and managed API endpoints using Postman for seamless data insertion ensuring the reliability and functionality of the system. ",
-      "Efficiently version-controlled using GitLab Repository, ensuring smooth collaboration and project management. ",
-      "Technologies used: Spring Boot Web, Spring Boot JPA, SQL, ERD design, Postman, Java SE 20, Gitlab",
+      "Collaborated with fellow students on developing Student Helper AI, a Chrome extension for Brightspace.", 
+      "Tasked in Developing  Student Helper AI’s chatbot functionality and OpenAI's backend API integration, utilizing Node.js, Express, and OpenAI for responsive AI interactions.",
+      "Crafted a user-centric interface with HTML5, Tailwind CSS, and JavaScript, and integrated seamlessly using Chrome Extension APIs for accessibility within the educational platform.",
     ],
     
   },
@@ -150,19 +150,7 @@ const experiences = [
       "An enthusiastic educator with the asd ability to inspire students, fostering a love of learning and instilling confidence in their academic abilities.",
       "Excellent communication and relationship-building skills honed over years of successful tutoring.",
     ],
-  },
-  {
-    title: "Tuition Installment Plan Scheduler",
-    company_name: "Personal Project",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "November 2018",
-    points: [
-      "Developed an application to manage tuition installment plans.",
-      "The application captures student information offers purchase options for uniforms and books and provides flexible payment plans. The system efficiently calculates and displays payment details, demonstrating an understanding of financial planning and problem-solving.",
-      "Technologies used: C#.",
-    ],
-  },
+  }
 ];
 
 const testimonials = [
