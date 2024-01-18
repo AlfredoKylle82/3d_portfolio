@@ -18,7 +18,6 @@ const Navbar = () => {
             window.scrollTo(0,0)
             }}
           >
-            
             <p className="text-white text-[18px] font-bold cursor-pointer flex">Alfredo Kylle Navarro &nbsp;<span>| &nbsp;Portfolio</span></p>
           </Link>
           <ul className="list-none hidden sm:flex flex-row gap-10">
